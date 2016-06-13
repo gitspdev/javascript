@@ -1,1 +1,1 @@
-Here you can upload your JavaScript files.
+Collection of JavaScript Files for SharePoint 2013
